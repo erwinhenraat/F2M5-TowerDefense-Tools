@@ -1,0 +1,79 @@
+{
+    "width": 6,
+    "tiles": [
+        {
+            "state": "spawnpoint",
+            "index": 0
+        },
+        {
+            "state": "path",
+            "index": 1
+        },
+        {
+            "state": "path"
+        },
+        {
+            "state": "path"
+        },
+        {
+            "state": "waypoint"
+        },
+        {
+            "state": "default"
+        },
+        {
+            "state": "path"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "spawnpoint"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "spawnpoint"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "buildable"
+        },
+        {
+            "state": "default"
+        },
+        {
+            "state": "default"
+        }
+    ]
+}

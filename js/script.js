@@ -1,3 +1,6 @@
+
+
+
 const start = () => {
   const paintSelector = new PaintSelector(document.getElementById('grid-painter'));
   const editor = new Editor(document.getElementById('editor'), paintSelector);
